@@ -72,7 +72,7 @@
     <Content Include="ang\favicon.ico" />
     <Content Include="ang\index.html" />
     <Content Include="ang\main.6d1f27f30c25a4f12889.js" />
-    <Content Include="ang\polyfills.0d74a55d0dbab6b8c32c.js" />
+    <Content Include="ang\polyfills.3b4a912df0e5d74151bb.js" />
     <Content Include="ang\runtime.6afe30102d8fe7337431.js" />
     <Content Include="ang\styles.fcabbb36eb59d7d98738.css" />
     <Content Include="prueba.aspx" />
